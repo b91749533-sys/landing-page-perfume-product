@@ -3,7 +3,7 @@ import { Button } from "@/components/ui/button"
 
 export function Hero() {
   return (
-    <section className="relative overflow-hidden pt-16">
+    <section className="relative overflow-hidden pt-24">
       <div className="mx-auto grid max-w-7xl items-center gap-8 px-6 pb-16 pt-12 lg:grid-cols-2 lg:gap-4 lg:px-10 lg:pb-24 lg:pt-20">
         {/* Copy */}
         <div className="order-2 lg:order-1">

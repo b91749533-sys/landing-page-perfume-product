@@ -16,6 +16,11 @@ export function SiteHeader() {
 
   return (
     <header className="fixed inset-x-0 top-0 z-50 border-b border-border/40 bg-background/70 backdrop-blur-md">
+      <div className="border-b border-border/40 bg-primary/10 py-2 text-center">
+        <p className="text-[11px] uppercase tracking-[0.25em] text-primary">
+          By Youssef Manssouri
+        </p>
+      </div>
       <div className="mx-auto flex h-16 max-w-7xl items-center justify-between px-6 lg:px-10">
         <a
           href="#"
